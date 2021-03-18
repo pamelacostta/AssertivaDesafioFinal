@@ -3,7 +3,7 @@ USE cadastros;
 CREATE TABLE users(
 id INT AUTO_INCREMENT,
 name VARCHAR(45) NOT NULL,
-emal VARCHAR(45) NOT NULL,
+email VARCHAR(45) NOT NULL,
 password VARCHAR(45) NOT NULL,
 dtCreation DATE,
 PRIMARY KEY (id)
