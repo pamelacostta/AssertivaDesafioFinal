@@ -67,9 +67,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Class Main para rodar o projeto
 
 Na parte de test criei um test para cada funcionalidade conforme vou estudando e aprendendo vou aprimorando eles.
-
-
-
-
-
-
