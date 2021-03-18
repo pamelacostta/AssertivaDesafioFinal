@@ -21,6 +21,7 @@ O desafio era elaborar um crud de usuários, criar um menu onde o usuário ira i
 4 - Excluir  <br> 
 
 Criar a classe Junit para testar maior parte dos código;
+Na parte de test criei um test para cada funcionalidade conforme vou estudando e aprendendo vou aprimorando eles.<br>
 
 Para começar a testar o projeto você tera que ter conexão ao banco de dados MySQL, atraves desse projeto você podera inserir dados no banco de dados,procurar por algum
 dado que tem na tabela,listar todos od dados da tabela, atualizar lista de contato e excluir dados da tabela.
@@ -64,5 +65,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 👉Class Main
 Class Main para rodar o projeto
-
-Na parte de test criei um test para cada funcionalidade conforme vou estudando e aprendendo vou aprimorando eles.
