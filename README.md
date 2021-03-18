@@ -9,13 +9,19 @@
 
 <br/>
 
-Welcome to my profile! 👋🏽
+### Bem-vindo(a) ao meu projeto!👋🏽
 
-# AssertivaDesafioFinal
-
-Desafio final Assertiva
+## Desafio final Assertiva | Campinas Tech Talents
 
 O CRUD é um acrônimo de Create(Criação), Retrieve(Consulta), Update(Atualização), Delete(Deleta) realiza as 4 operações básicas usadas em Banco de dados relacionais.
+
+O desafio era elaborar um crud de usuários, criar um menu onde o usuário ira informar qual atividade ele deseja: <br>
+1 - Cadastrar <br>
+2 - Procurar <br>
+3 -Alterar <br>
+4 - Excluir  <br> 
+
+Criar a classe Junit para testar maior parte dos código;
 
 Para começar a testar o projeto você tera que ter conexão ao banco de dados MySQL, atraves desse projeto você podera inserir dados no banco de dados,procurar por algum
 dado que tem na tabela,listar todos od dados da tabela, atualizar lista de contato e excluir dados da tabela.
