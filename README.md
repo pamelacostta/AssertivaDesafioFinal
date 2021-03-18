@@ -64,7 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     - Onde criei o crud fazendo conexão com o banco de dados.
 
 ### 👉Class Main
-Classe Main para rodar o projeto
+Class Main para rodar o projeto
 
 Na parte de test criei um test para cada funcionalidade conforme vou estudando e aprendendo vou aprimorando eles.
 
